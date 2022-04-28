@@ -83,7 +83,7 @@ return [
             'url' => env('DATABASE_URL'),
             'host' => env('DB_HOST', 'localhost\SQLEXPRESS'),
             'port' => env('DB_PORT', '1433'),
-            'database' => env('DB_DATABASE', 'prima'),
+            'database' => env('DB_DATABASE', 'primaa'),
             'username' => env('DB_USERNAME', 'admin'),
             'password' => env('DB_PASSWORD', 'admin'),
             'charset' => 'utf8',
